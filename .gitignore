@@ -1,0 +1,4 @@
+/node_modules
+.env
+/firebase/e-commerce-firebase-adminsdk.json
+.vercel
